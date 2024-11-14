@@ -1,1 +1,4 @@
-# CryptoClustering
+# Crypto Clustering - Module 19 Challenge
+This repository contains my code for the Module 19 Crypto Clustering challenge. This project uses unsupervised learning techniques to cluster different cryptocurrencies together based on their price change percentages over different lengths of time. It also uses Principal Component Analysis to further group the cryptocurrencies.
+
+The code for this project is in the Jupyter Notebook file titled `Crypto_Clustering.ipynb`. The original data file is in the `Resources` folder, and is titled `crypto_market_data.csv`. The starter code for this challenge is included in the main repo, and is titled `Crypto_Clustering_starter_code.ipynb`. Most of the code for this challenge was mainly drawn from the in-class activities for Module 19, such as activity 5 from day 1 and activity 4 from day 3.
